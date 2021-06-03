@@ -24,7 +24,7 @@
     "require": {
         "php": ">=7.3",
         "paragonie/random_compat": "^1 || ^2 || ^9",
-        "symfony/form": "^5.2",
+        "symfony/form": "5.2.*",
         "symfony/framework-bundle": "^5.2",
         "symfony/security-bundle": "^5.2",
         "symfony/translation": "^5.2",
